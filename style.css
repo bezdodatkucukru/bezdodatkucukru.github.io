@@ -1,0 +1,20 @@
+p
+{
+    color:red;
+    font-size: larger;
+    font-weight: 300;
+}
+body
+{
+    background-color: rgb(240, 208, 167);
+    font-family: "Parkinsans", sans-serif;
+
+}
+
+img
+{
+    width: 300px;
+    border: 10px;
+    border-color: rgb(148, 118, 73);
+    border-style: dashed;
+}
